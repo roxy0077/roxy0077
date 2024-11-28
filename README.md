@@ -1,7 +1,6 @@
 # Hi, I'm @roxy0077 👋
 
 ## About Me
-- 😄 Pronouns: He/Him
 - 🔭 I'm currently working on interactive and engaging game applications, focusing on providing the best user experience.
 - 🌱 I’m currently learning more about game development frameworks and improving my skills in Unity and Unreal Engine.
 - 👯 I'm looking to collaborate on innovative gaming projects and educational tools that help make learning fun.
